@@ -1,0 +1,3 @@
+[submodule "zim-plugin-instantsearch"]
+	path = zim-plugin-instantsearch
+	url = https://github.com/e3rd/zim-plugin-instantsearch.git
