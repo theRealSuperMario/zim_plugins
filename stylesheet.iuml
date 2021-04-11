@@ -135,6 +135,8 @@ skinparam {
     NoteFontName Roboto Condensed
     NoteFontStyle Italic
     'NoteBackgroundColor STYLE_BGC
+    linetype polyline
+    linetype ortho
 
 }
 @enduml
