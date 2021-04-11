@@ -4,3 +4,6 @@
 [submodule "zim-umldiagrameditor"]
 	path = zim-umldiagrameditor
 	url = git@gitlab.com:Voyvode/zim-umldiagrameditor.git
+[submodule "tag-autocompletion"]
+	path = tag-autocompletion
+	url = git@github.com:gesellkammer/zim-plugins.git
