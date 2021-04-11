@@ -3,7 +3,7 @@
 	url = https://github.com/e3rd/zim-plugin-instantsearch.git
 [submodule "zim-umldiagrameditor"]
 	path = zim-umldiagrameditor
-	url = git@gitlab.com:Voyvode/zim-umldiagrameditor.git
+	url = git@github.com:gesellkammer/zim-plugins.git
 [submodule "tag-autocompletion"]
 	path = tag-autocompletion
 	url = git@github.com:gesellkammer/zim-plugins.git
